@@ -1,0 +1,18 @@
+.container {
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  display: flex;
+}
+
+.physicians-text {
+  font-weight: bold;
+}
+
+.physician-list {
+  flex: 2;
+}
+
+.appointment-list {
+  flex: 5;
+}
